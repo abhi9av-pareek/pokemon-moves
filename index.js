@@ -33,6 +33,6 @@ const printMoves = async (pokemonName) => {
   }
 };
 
-// Call the function with the actual pokemon argument
+
 printMoves(argv.pokemon);
 
