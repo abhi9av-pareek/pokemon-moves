@@ -26,7 +26,7 @@ const printMoves = async (pokemonName) => {
     const pokemon = await response.json();
     const moves = pokemon.moves.map(({ move }) => move.name);
     console.log(`\n🎯 Top 10 moves for ${pokemonName}:`);
-    console.log(moves.slice(0, 10).join(',\n '));
+    console.log(moves.slice(0, 10).join(',\n'));
   } catch (error) {
     console.error(`❌ Error: ${error.message}`);
     process.exit(1);
