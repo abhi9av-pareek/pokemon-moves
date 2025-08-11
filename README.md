@@ -16,23 +16,25 @@ A simple command-line tool to display the **Top 10 Pokémon moves** instantly.
 
 Install globally via npm:
 ```bash
-npm install -g pokemon-top-moves-cli
+sudo npm install -g
 ```
 Or run locally
 ```bash
-git clone https://github.com/yourusername/pokemon-top-moves-cli.git
-cd pokemon-top-moves-cli
+git clone https://github.com/yourusername/cli-tools.git
+cd cli-tools
 npm install
 ```
 ---
 
-## Usage
+## Running process
 
 Run with Pokémon name:
 ```bash
-pokemon-moves pikachu
+pokemon-moves -p pikachu
 ```
-## Top 10 moves for Pikachu:
+-----
+## Output In Terminal
+Top 10 moves for Pikachu:
 1. Thunderbolt ⚡
 2. Quick Attack
 3. Iron Tail
