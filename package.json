@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "abhinav-codes": "index.js"
+    "pokemon-moves": "index.js"
   },
   "keywords": [],
   "author": "",
