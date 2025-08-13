@@ -46,13 +46,9 @@ Top 10 moves for Pikachu:
 9. Agility
 10. Wild Charge
 
+![ScreenRecording2025-08-13at14 06 41-ezgif com-crop](https://github.com/user-attachments/assets/2d591861-dc3a-48f3-a6c6-843423a41162)
 
 ---
-
-
 ## 🛠 Requirements
 - Node.js >= 14
 - npm >= 6
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
