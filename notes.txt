@@ -1,0 +1,9 @@
+date 11aug my birthday hehe
+today i create a small project called pokemon-moves it is a small cli tool that help u to find top 10  moves of your fav pokemon 
+in this project i learned 
+1 => how to use cli, ki bhai terminal ko chlate kaise hai after that, mtlb  Shebang ka use #!
+2 => learn how to make package.json executable using bin syntax that connect main file with your package.json 
+3 => argument parsning sikhi using yargs module, badi mehnat se smjh aayi
+4 =>  pokemon ka option banaya 
+5 => fir maine sikha ki bhai url se data kaise fetch krte hai
+6 => thodi bht error handling sikhi hai 
